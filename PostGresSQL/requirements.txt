@@ -1,0 +1,4 @@
+python-dotenv
+sqlalchemy
+typer[all]
+psycopg2-binary
